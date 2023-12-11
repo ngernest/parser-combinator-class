@@ -15,7 +15,7 @@ import Text.PrettyPrint (Doc, (<>))
 import qualified Text.PrettyPrint as PP
 import Prelude hiding ((<>))
 
-{- Read [instructions.md] first. -}
+{- Please read the instructions in [README.md] first. -}
 
 ------------------------------------------------------------
 --  1. Parsing S-expression identifiers.
